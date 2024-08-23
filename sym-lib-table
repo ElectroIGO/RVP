@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "reverse_voltage_protection-rescue")(type "KiCad")(uri "${KIPRJMOD}/reverse_voltage_protection-rescue.kicad_sym")(options "")(descr ""))
+)
